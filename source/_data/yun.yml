@@ -56,10 +56,10 @@ social:
     link: mailto:me@yunyoujun.cn
     icon: icon-mail-line
     color: "#8E71C1"
-  - name: 微博
-    link: https://weibo.com/jizhideyunyoujun
-    icon: icon-weibo-line
-    color: "#E6162D"
+  # - name: 微博
+  #  link: https://weibo.com/jizhideyunyoujun
+  #  icon: icon-weibo-line
+  #  color: "#E6162D"
   # - name: 豆瓣
   #  link: https://www.douban.com/people/yunyoujun/
   #  icon: icon-douban-line
@@ -448,7 +448,7 @@ footer:
     # icp: 苏ICP备xxxxxxxx号
 
   live_time:
-    enable: false
+    enable: ture
     prefix: 本博客已萌萌哒地运行
     suffix: (●'◡'●)
     start_time: "2019-04-12T00:00:00"
